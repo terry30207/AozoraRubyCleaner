@@ -2,6 +2,7 @@
 
 用來把青空文庫的文章本體去標音後下載。
 
+建議在windows 10 64bit執行  
 使用說明  
 0.下載AozoraRubyCleaner.exe及phantomjs.exe並放在同一個目錄下  
 1.執行AozoraRubyCleaner.exe，初次執行可能會出現一個藍色視窗擋住你，請按一下其他資訊->仍要執行  
@@ -11,3 +12,4 @@
 PS.完成的rubyfree.txt請自己另外保存，再次執行AozoraRubyCleaner.exe會覆蓋舊的rubyfree.txt  
 
 使用python/PhantomJS/beautifulsoup4/pyinstaller
+版權沒有，要拿自己拿
