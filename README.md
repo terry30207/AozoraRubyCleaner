@@ -11,5 +11,5 @@
 4.完成的文章會放在同一個目錄的rubyfree.txt  
 PS.完成的rubyfree.txt請自己另外保存，再次執行AozoraRubyCleaner.exe會覆蓋舊的rubyfree.txt  
 
-使用python/PhantomJS/beautifulsoup4/pyinstaller
+使用python/PhantomJS/beautifulsoup4/pyinstaller  
 版權沒有，要拿自己拿
